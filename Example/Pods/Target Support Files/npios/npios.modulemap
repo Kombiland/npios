@@ -1,0 +1,6 @@
+framework module npios {
+  umbrella header "npios-umbrella.h"
+
+  export *
+  module * { export * }
+}

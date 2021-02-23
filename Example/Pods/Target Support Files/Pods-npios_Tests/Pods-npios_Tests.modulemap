@@ -1,0 +1,6 @@
+framework module Pods_npios_Tests {
+  umbrella header "Pods-npios_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

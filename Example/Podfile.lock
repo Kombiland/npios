@@ -1,0 +1,16 @@
+PODS:
+  - npios (0.1.0)
+
+DEPENDENCIES:
+  - npios (from `../`)
+
+EXTERNAL SOURCES:
+  npios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  npios: 5bc6a4e2ec0e5d25cc3f51e9c036e5f94b082de6
+
+PODFILE CHECKSUM: 765d9d29c804b61e82e21b9e0bb72b14f0651526
+
+COCOAPODS: 1.8.1
