@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = "A tha d s  kwe sndf nsdfsif snj n k wbe fbwef jwkfk jwekj "
 
-  s.homepage         = 'https://github.com/Thomas Johansson/npios'
+  s.homepage         = 'https://github.com/Kombiland/npios'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Thomas Johansson' => 'ketjoh@hotmail.com' }
