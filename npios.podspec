@@ -7,7 +7,6 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Thomas Johansson' => 'ketjoh@hotmail.com' }
   s.source           = { :git => 'https://github.com/Kombiland/npios.git', :branch => "master", :tag => s.version.to_s }
-  { :git => 'https://github.com/Kombiland/npios.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
   s.source_files = 'Source/**/*'
 end
