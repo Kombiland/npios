@@ -8,7 +8,7 @@
 import Foundation
 
 public class Testing {
-    public let hiString = "hello World!"
+    public let hiString = "hello world!"
     public func sayHiTo(_ name: String) -> String {
         return "Hi \(name)!"
     }
