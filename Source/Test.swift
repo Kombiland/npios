@@ -10,7 +10,7 @@ import Foundation
 public class Testing {
     public let hiString = "hello world!"
     public func sayHiTo(_ name: String) -> String {
-        return "Hi \(name)!"
+        return "hi \(name)!"
     }
     public static func sayHelloTo(_ name: String) -> String {
         return "Hello \(name)!"
