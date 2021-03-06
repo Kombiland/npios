@@ -9,6 +9,7 @@ import Foundation
 
 public class Testing {
     public let hiString = "hello world!"
+    public init() {}
     public func sayHiTo(_ name: String) -> String {
         return "hi \(name)!"
     }
