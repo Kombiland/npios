@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'npios'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'A short description of npios. sdf s   ec.'
   s.description      = "A tha d s  kwe sndf nsdfsif snj n k wbe fbwef jwkfk jwekj "
   s.homepage         = 'https://github.com/Kombiland/npios'
